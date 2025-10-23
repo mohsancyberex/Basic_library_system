@@ -32,7 +32,9 @@ Users can:
 | 🧩 **Menu-Driven Interface** | Simple text-based navigation with numeric options. |
 
 🗂️ File Structure
+
 📁 CyberEX-Library/
+
 ├── main.cpp # Main program
 
 ├── books.txt # Available books (auto-created)
